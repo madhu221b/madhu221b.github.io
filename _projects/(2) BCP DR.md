@@ -4,7 +4,7 @@ tools: [AngularJS, Java , REST APIs]
 image: /assets/images/BCP_BMC.PNG
 description: An application which initiates Business Continuity and Disaster Recovery in case of  organisational failure due to a disaster.Furnished real time 
              status of all dependencies such as assets, employees, services and project impact status .
-external_url: https://github.com/Juilee266/DOOT             
+external_url: http://www.ijirset.com/upload/2019/march/69_Smart.pdf             
 ---
 
 <!-- # The Movies Project
