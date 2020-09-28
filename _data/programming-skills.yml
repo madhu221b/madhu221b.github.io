@@ -1,10 +1,23 @@
+- name: Java
+  percentage: 90
+  color: success
+
+- name: Spring Boot
+  percentage: 85
+  color: primary
+
+- name: ReactJS
+  percentage: 80
+  color: warning
+
+- name: JavaScript
+  percentage: 80
+  color: danger
+
+
 - name: HTML5/CSS3
   percentage: 90
   color: danger
-
-- name: Go
-  percentage: 80
-  color:
 
 - name: Python
   percentage: 70

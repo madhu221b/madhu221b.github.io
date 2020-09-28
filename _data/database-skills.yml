@@ -1,0 +1,11 @@
+- name: MySql
+  percentage: 90
+  color: success
+
+- name: Hue
+  percentage: 85
+  color: primary
+
+- name: MongoDB
+  percentage: 70
+  color: warning
