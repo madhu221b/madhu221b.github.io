@@ -1,26 +1,18 @@
 ---
-title: Digital Minimalism
-tags: [Social Media, Minimalism, Technology]
-style: 
-color: 
-description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
+title: Lockdown & Art
+tags: [Art , Painting]
+style: fill
+color: info
+description: A peek at how colors are transferring their vibrancy and liveliness to us , making us repaint our dull quarantine moods with life !
 ---
 
-Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
 
-A few months ago I was offered (and have since accepted) a full time offer to work at Facebook in San Francisco and in that time I have been reflecting on my own usage of social media and the amount of value it has added to my life.
-
-A common trend I’ve been seeing is the urgency to delete all your social media IMMEDIATELY or even go completely off-the-grid to avoid the unimaginable long-term implications of having your attention and personal data potentially manipulated and abused. I don’t think that we can thrive in today’s world without utilizing the platforms that allow us such a dense level of interconnectivity. I’m not saying that things couldn’t be engineered better; what I am saying however, is that we can take control of how these platforms influence us and in a sense, take control of our own evolution.
-
-Anyways, here are five things I’ve done which have allowed me to be a participant in the digital world, but not have my attention micromanaged:
+Here are some snippets of my paintings I did . I realised how much these beautiful colors , the strokes of a brush , the satisfaction of seeing yourself complete a drawning brings us joy.
 
 ## 1. Unsubscribe from irrelevant emails
 
-Inbox-zero isn’t a new idea but it’s infinitely more difficult to achieve this if you’re bombarded with emails from random retailers offering coupons and one-in-a-lifetime deals you’re never going to use.
-
-A simple way to de-clutter your inbox is to look at each email you receive from a subscription and if it’s not immediately relevant (or will be in the foreseeable future), just scroll to the bottom and hit that unsubscribe button. Over time you’ll receive less and less irrelevant emails and this will naturally translate into less stress in the back of your mind.
-
-And for those subscriptions and newsletters that you do want to keep, Unroll.me is a great tool I’ve used to manage the amount of content I see in my inbox. It allows you to wrap all relevant subscriptions into a daily newsletter that you see once and can tackle at your own leisure (it even allows you to unsubscribe directly from their platform!)
+<!-- ![preview](/assets/images/paintings/butterfly.jpeg )-->
+<img src = "/assets/images/paintings/butterfly.jpeg" alt = "Painting" width="200" height="200" />
 
 ## 2. Unfollow people on social media
 
