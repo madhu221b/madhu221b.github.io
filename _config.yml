@@ -1,10 +1,7 @@
 ### Site Settings ###
 title               : Madhura Pawar
 description         : >-
-                      A full stack developer looking for exciting opportunities to work in dev or ML/AI.
-                      Solving real time problems through technology tickles me.
-                      An infrequent writer . 
-                      Hoping for better days .
+                     A full stack developer looking for exciting opportunities to work in dev or ML/AI. Solving real time problems through technology tickles me. An infrequent writer. Hoping for better days.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : madhu221b/madhu221b.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
