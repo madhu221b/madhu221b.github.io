@@ -12,7 +12,7 @@ Here are some snippets of my paintings I did . I realised how much these beautif
 
 ## 1. Acrylic Paintings
  
- <div>
+ <div class="wrapper"> 
 {% capture carousel_images %}
 /assets/images/paintings/1.png
 /assets/images/paintings/2.png
@@ -29,7 +29,6 @@ Here are some snippets of my paintings I did . I realised how much these beautif
 
 ## 3. Ganpati Bappa Morya!
 
-<div>
 {% capture carousel_images %}
 /assets/images/statue/5.png
 /assets/images/statue/6.png
@@ -38,5 +37,4 @@ Here are some snippets of my paintings I did . I realised how much these beautif
 /assets/images/statue/9.png
 /assets/images/statue/10.png
 {% endcapture %}
-{% include elements/carousel.html %}
-</div>
+{% include /carousel2.html %}
