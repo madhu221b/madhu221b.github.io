@@ -30,11 +30,11 @@ Here are some snippets of my paintings I did . I realised how much these beautif
 ## 3. Ganpati Bappa Morya!
 
 {% capture carousel_images %}
+/assets/images/statue/10.png
 /assets/images/statue/5.png
 /assets/images/statue/6.png
 /assets/images/statue/7.png
 /assets/images/statue/8.png
 /assets/images/statue/9.png
-/assets/images/statue/10.png
 {% endcapture %}
 {% include /carousel2.html %}
