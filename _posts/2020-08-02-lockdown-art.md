@@ -14,7 +14,7 @@ Here are some snippets of my paintings I did . I realised how much these beautif
  
 
 <!-- ![preview](/assets/images/paintings/butterfly.jpeg )-->
-<table>
+<!-- <table>
 	<tr>
 		<td><img src = "/assets/images/paintings/butterfly.jpeg" alt = "Painting" width="300" height="250" />
 			</td>
@@ -26,15 +26,22 @@ Here are some snippets of my paintings I did . I realised how much these beautif
      <td><img src = "/assets/images/paintings/apricot.jpeg" alt = "Painting" width="400" height="300" /></td>
 	</tr>
 	
-</table>
+</table> -->
+
+{% capture carousel_images %}
+/assets/images/paintings/1.png
+/assets/images/paintings/2.png
+/assets/images/paintings/3.png
+/assets/images/paintings/4.png
+{% endcapture %}
+{% include elements/carousel.html %}
+
+
 
 ## 2. Glass Paintings
 
-As you progress through school, jobs, projects, and whatever else you devote your time to, you tend to meet a lot of people who you may add on Facebook, follow on Instagram, but never develop a real relationship with. These acquaintances bloat your feeds and may cause you to miss out on important things that happen to those in your life who do matter.
+|{ /assets/images/glass/1.jpeg }|/assets/images/glass/2.jpeg|/assets/images/glass/3.jpeg|
 
-What I have done is unfollow (or mute) the people that I don’t spend time with in person or plan to in the future. This includes brands, groups, events or influencers who I don’t feel are genuinely inspiring me. The beauty of this is that you are freeing up more time and mental space to interact with the content and people who you truly do want to invest in.
-
-If you don’t want to be dramatic but still want more manageable social media feeds, the mute feature does thankfully exist. This allows you to mute someone’s posts, stories, and other notifications without explicitly unfollowing them and not tarnishing your (probably nonexistent) relationship with them.
 
 ## 3. Ganpati Bappa Morya!
 
