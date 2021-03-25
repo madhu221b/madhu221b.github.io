@@ -34,8 +34,12 @@ built around the lake. You think how peaceful everyone cohabitates and I wondere
 into the lands of unknown and that which is so undisturbed and immaculate. <br/>
    Then , we visited Naina Devi temple. And this was one of the experiences I was waiting for - Momos.
 Momos from the North.
- |![Image](/assets/images/nainital/3.jpeg)|![Image](/assets/images/nainital/4.jpeg)|![Image](/assets/images/glass/3.jpeg)|
-
+ |![Image](/assets/images/nainital/3.jpeg) |![Image](/assets/images/nainital/4.jpeg) |![Image](/assets/images/glass/3.jpeg)|
+ | Left          | Center        | Right   |
+ | ------------- |:-------------:| -------:|
+ | col 3 is      | right-aligned | $160000 |
+ | col 2 is      | centered      | $12     |
+ | **Use**       | `Markdown`    | $1      |
  When it comes to talking about food, I am very descriptive. So here goes - the cover was tender but at
 the same time it was tough, you need to get a bite out of it so that it then breaks and there you have a morsel of 
 goodness - the soft and warm stuffing with the cover. The momos were so warm and just out of the steamer(I don't exactly know what
