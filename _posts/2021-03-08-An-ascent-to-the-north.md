@@ -41,7 +41,9 @@ the same time it was tough, you need to get a bite out of it so that it then bre
 goodness - the soft and warm stuffing with the cover. The momos were so warm and just out of the steamer(I don't exactly know what
  is that container called) , that in my hurry to taste one, I might have burnt my tongue a bit. The vegeterian momos constituted 
 of diced vegetables - I could pick up cauliflower as one of the main ingredients as opposed to the momos you eat
-through Zomato!  And the non-vegetarian ones were "Ah-ah-ha!", you could see hot, tiny vapours coming out of them, and the mixture was neither too dry nor too juicy ..just perfect! <br/>
+through Zomato!  And the non-vegetarian ones were "Ah-ah-ha!", you could see hot, tiny vapours coming out of them, and the mixture was neither too dry nor too juicy ..just perfect! 
+The three chutneys like their colors contrasted so did their tastes too! 
+<br/>
   Then, we were taken up a hill through a cable car where we roamed and took in more of the mountain air. And had Chana chat.
      The chat was sure a fiery treat for me. Tiny chopped chilli pieces were part of my bite as uninvited guest and
      I did have a ring my ears due to the spice. But it was worth it. The finely diced onions, with the 
