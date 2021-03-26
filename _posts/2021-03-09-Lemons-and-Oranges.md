@@ -5,8 +5,8 @@ style: border
 color: primary
 description: Second day in Nanital
 ---
-   Today the travel was for a longer span. The roads were more meandering and I could view more of Nainital 
-as you could see beneath the ghat whole of the countryside. I could see the little huts and resorts tucked
+   Today the travel was lengthy. The roads were more meandering and I could view more of Nainital 
+as you could see beneath the ghat,  whole of the countryside. I could see the little huts and resorts tucked
 away in the expanse of mountains. I could see the trees taller and taller with their branches waving at us.
 We reached Kainchi Dham which is a Hanuman temple & Ashram. There at the entrance gate of the temple 
 was a small cart. It was laden with huge oranges and lemons, their size as big as palm and very heavy.
@@ -16,14 +16,10 @@ far places to visit the Kainchi temple.
 
  ![Image](/assets/images/nainital/6.jpeg)
  ![Image](/assets/images/nainital/7.jpeg)
-The huge mountains laden with cone-shaped trees, possibly pine trees appeared as if they were our protectors
-who as if were saying - "Sleep and rest in our shadows, for we stand to protect you all." I stepped out of the window
-onto the roof, balancing my weight as one wrong step, I would have crashed into the room beneath and possibly would have
-disturbed some couple who were having their honeymoon. There I stood on the edge of the window , breathing in the cold, crisp air
-and just mentally applauding the scenic beauty in front of me.
-   Later we went down and ran into a friendly mountain dog. Well, it took a few minutes for us to realise he was friendly.
-He had dense black fur, and he looked like someone whose normal walks are going up and down the hills for when you see a street dog from Pune
-to a dog who lives in the hills, you know.
+   The apple tree, I had seen for the first time in my life. It was as if, this tree is not rained by
+water droplet but with cotton, for the branches were clothed with white leaves. The diversity which the apple tree created as it 
+intermixed into the majorly green carpet!
+ ![Image](/assets/images/nainital/8.jpeg)
     <br/>
  After that, we proceeded to Naini lake after a sumptuous breakfast.We were taken for boating here. When today I recount the mythological story 
 associated with the lake and remembering how we floated into the wooden boats on that azure, clear and pure water, I am filled with 
