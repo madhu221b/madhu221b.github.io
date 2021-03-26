@@ -17,15 +17,13 @@ far places to visit the Kainchi temple.
  ![Image](/assets/images/nainital/6.jpeg)
  ![Image](/assets/images/nainital/7.jpeg)
    The apple tree, I had seen for the first time in my life. It was as if, this tree is not rained by
-water droplet but with cotton, for the branches were clothed with white leaves. The diversity which the apple tree created as it 
+water droplets but with cotton, for the branches were clothed with white leaves. The diversity which the apple tree created as it 
 intermixed into the majorly green carpet!
  ![Image](/assets/images/nainital/8.jpeg)
-    <br/>
- After that, we proceeded to Naini lake after a sumptuous breakfast.We were taken for boating here. When today I recount the mythological story 
-associated with the lake and remembering how we floated into the wooden boats on that azure, clear and pure water, I am filled with 
-awe , for something so holy and pure and beautiful to be part of something like that, makes you conscious about yourself. Makes you think
-about your inner self and you question and introspect - "Whether I am worthy to behold such a sight ?"
- ![Image](/assets/images/nainital/2.jpeg)
+ That day, it wasn't very cloudy and we caught a glance of the Himalayas. I find these ranges mysterious, does a Yeti still ponder? Or our Hindu Gods 
+still meditate in the cold, icy caves which are hidden away from humanity. Would I from so far, by seeing these snow capped mountains
+answer the questions which riddle me? Or should I just be an observer of how placid this sight ahead of me looked?
+ ![Image](/assets/images/nainital/9.jpeg)
     From the lake, you can view the whole town. And someone who has lived in a metropolitan city like Pune for 6 years, you feel amazed as you see
 the coloured roofed houses all arranged on the slopes of the mountain and a church, mosque ,court ,community center all
 built around the lake. You think how peaceful everyone cohabitates, and I wondered, is this a pretty dollhouse and have I become a Lilliputian who stumbled
