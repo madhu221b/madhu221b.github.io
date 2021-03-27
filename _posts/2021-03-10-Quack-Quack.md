@@ -26,10 +26,16 @@ Shikaras and they were more advanced compared to our wooden boats at Naini lake.
    attain enlightenment." Again, the folklore of mysteries and references to the supernatural, Nainital - you are the city
 of beauty but you possess the power to burn someone to ashes if someone tries to hurt your flora and fauna.
  ![Image](/assets/images/nainital/12.jpeg)
- That day, it wasn't very cloudy, and we caught a glance of the Himalayas. I find these ranges mysterious, does a Yeti still ponder? Or our Hindu Gods 
-still meditate in the cold, icy caves which are hidden away from humanity. Would I from so far, by seeing these snow capped mountains
-answer the questions which riddle me? Or should I just be an observer of how placid this sight ahead of me looked?
- ![Image](/assets/images/nainital/9.jpeg)
+ Here, as we sat on the bench basking in the warm sunlight, we were witnesses of an interesting sight.
+Climbing onto the steps which lead to the lake, emerged a flock of ducks. Some of them white, some of them brown.
+They not giving a heed to the people near them or anyone in general, they strutted proudly , marching with thier
+orange webbed feet. They proceeded to the road. Now we were puzzled, what kind of chores have the ducks to go about and do in the bazaars above.
+Do they have tickets booked for the matinee show at the local cinemas or do they have to shop for groceries, why would a raaft of ducks
+go about the city as if they have perfunctory duties to perform. And then in a moment's rush, all the ducks came down rushing
+, they were followed by a local man, who like us might have questioned the "jos of a ducks". Like Hansel and Gretel, he created 
+a trail of bread crumbs and hushed them back to the lake. <br/>
+  Now when I remember those ducks, I think of them as celebrities, walking proudly as if on a red carpet, adn we the paparazzis , observing their moments!
+![Image](/assets/images/nainital/13.jpeg)
   We had lunch at a quiet place. We were stalked by a small monkey who was peering through the bars and as soon as we unwrapped our ice cream
  we heard his feet pattering on the roof, as he made a failed attempt to enter through the closed door.
 We stopped by to look at Ranikhet Golf Course. When I stepped into the adjoining forest, the only emotion which filled my mind was ecstasy.
