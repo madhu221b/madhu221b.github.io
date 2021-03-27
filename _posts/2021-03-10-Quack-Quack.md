@@ -19,11 +19,13 @@ a piece of paper. After seeing this exorbitant collection of bells, I wondered h
 Your devotion, your dedication to the supernatural entity, your belief that if asked for something humbly to the God, you will receive it, is that how
 we survive ? We hope and hope, we the fragile beings at the mercy of the Gods, to pull us through.
  ![Image](/assets/images/nainital/11.jpeg)
- ![Image](/assets/images/nainital/7.jpeg)
-   The apple tree, I had seen for the first time in my life. It was as if, this tree is not rained by
-water droplets but with cotton, for the branches were clothed with white leaves. The diversity which the apple tree created as it 
-intermixed into the majorly green carpet!
- ![Image](/assets/images/nainital/8.jpeg)
+   Next we proceeded to Government's handicraft and saaris center for tourists.There the hill slopes were
+cultivated with tea farms. Then we proceeded to Naukuchiatal - the lake of nine corners. The boats here were called
+Shikaras and they were more advanced compared to our wooden boats at Naini lake. As we were boating, the boatman tells us
+"No one knows where exactly are the 9 corners. But it is said if you see all 9 corners in a glance, you either go blind or
+   attain enlightenment." Again, the folklore of mysteries and references to the supernatural, Nainital - you are the city
+of beauty but you possess the power to burn someone to ashes if someone tries to hurt your flora and fauna.
+ ![Image](/assets/images/nainital/12.jpeg)
  That day, it wasn't very cloudy, and we caught a glance of the Himalayas. I find these ranges mysterious, does a Yeti still ponder? Or our Hindu Gods 
 still meditate in the cold, icy caves which are hidden away from humanity. Would I from so far, by seeing these snow capped mountains
 answer the questions which riddle me? Or should I just be an observer of how placid this sight ahead of me looked?
