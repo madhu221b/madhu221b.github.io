@@ -30,7 +30,7 @@ of beauty but you possess the power to burn someone to ashes if someone tries to
 Climbing onto the steps which lead to the lake, emerged a flock of ducks. Some of them white, some of them brown.
 They not giving a heed to the people near them or anything in general, they strutted proudly , marching with their
 orange webbed feet. They proceeded to the road. Now we were puzzled, what kind of chores have the ducks to go about and do in the bazaars above.
-Do they have tickets booked for the matinee show at the local cinemas or do they have to shop for groceries, why would a raft of ducks
+Do they have tickets booked for the matinée show at the local cinemas or do they have to shop for groceries, why would a raft of ducks
 go about the city as if they have perfunctory duties to perform. And then in a few minutes, all the ducks came down rushing
 , they were followed by a local man, who like us might have questioned the "jobs of a duck". Like Hansel and Gretel tale, he created 
 a trail of bread crumbs and hushed them back to the lake. <br/>
