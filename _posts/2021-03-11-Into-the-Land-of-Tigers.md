@@ -31,10 +31,11 @@ like a vigilante perhaps. We stopped at a place where the guide showed us the pu
 hoping that the tiger would pass by. The silence was surreal, as I felt that from deep inside the foliage, the tiger was seeing us, just watching us
 and it is as if I felt I was in the presence of the king.
  ![Image](/assets/images/nainital/19.jpeg)
- One of the paintings in the museum - 
- ![Image](/assets/images/nainital/14.jpeg) 
- Later we proceeded to a small gift shop in the premises of the museum and now I was fixated 
-by only one thought - The Tiger. To think that I am currently on the same land where tigers used to wander,
-and they still might be stepping into the localities. The mango trees were blossoming, we were now
-witnessing the beginning of summer.
+ The safari now coming to conclusion, oh how I miss the aura of the woods and the mud, the scent of the forest,
+like fragrant wisps of perfume. The small shrubbery with violet flowers, the forgotten land, the land I hope is not took over
+in the pursuit of modernization and industrialization.
+ <br/>
+ William Blake's The Tyger, depicted so beautifully how fearsome yet alluring the tiger is.
+Here goes some lines which I penned - 
+<i> Hello World </i>
  
