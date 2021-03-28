@@ -25,13 +25,13 @@ had their own language of conversing. A herd of six elephants were grazing off t
 The elephant using his trunk threshing the grass, sprinkling the mud on his enormous body as it helps them remain cool.
 And then chewing onto the grass. The elephants went about their eating business quietly, unheeding to the  humans.
  ![Image](/assets/images/nainital/18.jpeg)
-  Now when I remember those ducks, I think of them as celebrities, walking proudly as if on a red carpet, and we the paparazzi , observing their moments!
-![Image](/assets/images/nainital/13.jpeg)
-  We had our lunch then, and visited Bhimtal for a brief moment to carry forward our journey to Corbett.
-We made our stop at Jim Corbett Museum. To be in the house and looking at the memories of such a benevolent man - Jim Corbett,
-I was filled with awe.
-<br/>
-One of the paintings in the museum - 
+ My eyes searching and my vision frisking into the bushes, in search of something, something very royal, stripped
+and majestic but also terrifying. I looked on top of the trees too, hoping that a leopard would be looking at us below quietly,
+like a vigilante perhaps. We stopped at a place where the guide showed us the pugmarks of a tiger. We waited there for 20 minutes or so,
+hoping that the tiger would pass by. The silence was surreal, as I felt that from deep inside the foliage, the tiger was seeing us, just watching us
+and it is as if I felt I was in the presence of the king.
+ ![Image](/assets/images/nainital/19.jpeg)
+ One of the paintings in the museum - 
  ![Image](/assets/images/nainital/14.jpeg) 
  Later we proceeded to a small gift shop in the premises of the museum and now I was fixated 
 by only one thought - The Tiger. To think that I am currently on the same land where tigers used to wander,
