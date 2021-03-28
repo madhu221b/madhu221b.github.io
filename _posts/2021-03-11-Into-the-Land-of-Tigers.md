@@ -42,12 +42,11 @@ Here goes some lines which I penned - <br/>
 <i> I saw you, painted on the stone,</i> <br/>
 <i> Your face, fierce and alone. </i> <br/>
 <br/>
-
 <i>I saw you in the gift shops, </i> <br/>
 <i> As soft toys and on girls' top. </i> <br/>
 <i> On the pamphlets of the resort, </i> <br/>
 <i> In your search, is this how I should sought? </i> <br/>
- 
+ <br/>
 <i>The wheels of tourism driven by you,</i><br/>
 <i>Aware, are you of the attention you drew?</i> <br/>
 <i> I hope to meet you now, anytime soon,</i> <br/>
