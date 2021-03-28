@@ -20,14 +20,11 @@ plumage as he swayed at his will, commanding the attention of his viewers.
   Barking deer, sambar, chital, spotted deer, barasingha were among the fauna we had the pleasure of seeing. They looked intently at us, as if aware of the presence of humans and
 ready to take off anytime if they smelled any danger from us or the tigers!
  ![Image](/assets/images/nainital/17.jpeg)
- Here, as we sat on the bench basking in the warm sunlight, we were witnesses of an interesting sight.
-Climbing onto the steps which lead to the lake, emerged a flock of ducks. Some of them white, some of them brown.
-They not giving a heed to the people near them or anything in general, they strutted proudly , marching with their
-orange webbed feet. They proceeded to the road. Now we were puzzled, what kind of chores have the ducks to go about and do in the bazaars above.
-Do they have tickets booked for the matinée show at the local cinemas or do they have to shop for groceries, why would a raft of ducks
-go about the city as if they have perfunctory duties to perform. And then in a few minutes, all the ducks came down rushing
-, they were followed by a local man, who like us might have questioned the "jobs of a duck". Like Hansel and Gretel tale, he created 
-a trail of bread crumbs and hushed them back to the lake. <br/>
+  We heard various birds, each having his vocal range and chirps different than the other. It is as if they 
+had their own language of conversing. A herd of six elephants were grazing off the fields of overgrown grasses.
+The elephant using his trunk threshing the grass, sprinkling the mud on his enormous body as it helps them remain cool.
+And then chewing onto the grass. The elephants went about their eating business quietly, unheeding to the  humans.
+ ![Image](/assets/images/nainital/18.jpeg)
   Now when I remember those ducks, I think of them as celebrities, walking proudly as if on a red carpet, and we the paparazzi , observing their moments!
 ![Image](/assets/images/nainital/13.jpeg)
   We had our lunch then, and visited Bhimtal for a brief moment to carry forward our journey to Corbett.
