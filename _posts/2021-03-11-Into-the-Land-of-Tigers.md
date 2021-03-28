@@ -36,6 +36,26 @@ like fragrant wisps of perfume. The small shrubbery with violet flowers, the for
 in the pursuit of modernization and industrialization.
  <br/>
  William Blake's The Tyger, depicted so beautifully how fearsome yet alluring the tiger is.
-Here goes some lines which I penned - 
-<i> Hello World </i>
+Here goes some lines which I penned - <br/> 
+<i> Where are you ? <i> <br/>
+<i> Yes, your presence is only for the lucky few .</i> <br/>
+<i> I saw you, painted on the stone,</i> <br/>
+<i> Your face, fierce and alone. </i> <br/>
+<br/>
+
+<i>I saw you in the gift shops, </i> <br/>
+<i> As soft toys and on girls' top. </i> <br/>
+<i> On the pamphlets of the resort, </i> <br/>
+<i> In your search, is this how I should sought? </i> <br/>
  
+<i>The wheels of tourism driven by you,</i><br/>
+<i>Aware, are you of the attention you drew?</i> <br/>
+<i> I hope to meet you now, anytime soon,</i> <br/>
+<i> Resting under the peepal tree, in the noon.<i> <br/>
+<br/>
+<i>This fantasy, figment of my imagination,</i><br/>
+<i> It is only the way, we meet in succession.</i> <br/>
+<i> Your yellow eyes glaring at me,</i> <br/>
+<i>This is how, my encounter with you, I see.</i> <br/>
+<br/>
+![Image](/assets/images/nainital/20.jpeg)
