@@ -9,28 +9,17 @@ description: Final day in Nanital
 we should go to Nainital and not Shimla. The safari jeeps came to pick us up at 6 am. The air was very chilly and
 I took my seat in the last row of the open jeep. When it comes to tying a knot and making the stole into scarf, I am 
 an incompetent loser, hence I took all the hits and punches of the wind as the jeep dashed through.
-Ah, at last the entrance of the national park! Now, you know when you are crazy and "mad in love" for a celebrity, your whole thoughts 
-revolve  around him/her. Same was with me, for me the thoughts were , "I am actually entering the tiger's home", "Oh, what if he jumps out of no where",
-"Tiger, tiger you are a swagger", you know normal, trivial thoughts of a youngster..(atleast that's how I console when I think about my thinking process)
-<br/>
-Through the winding paths of the forest, the jeep went through. The sight of deer grazing and peacocks roaming was an indication that we
+Ah, at last the entrance of the national park. Through the winding paths of the forest, the jeep went through. The sight of deer grazing and peacocks roaming was an indication that we
 have actually entered the jungle! Bungalows of forest officers with electrical fencing were there at the roadsides.
 We reached the base camp and the sun had now almost risen, the morning now begun. Was it the rising times for the animals too
 or did the carnivores slumbered for they hunted at night?
  ![Image](/assets/images/nainital/15.jpeg)
-  The temple was adorned with copious abundance of bells! In all sizes and metallic colors, they hung above your heads, the temple columns
-were filled with them. The belief goes like this - the devotees upon fulfilment of their wishes, tie a bell in the temple premises. The wishes, written on 
-a piece of paper. After seeing this exorbitant collection of bells, I wondered how hope works in a mysterious way.
-Your devotion, your dedication to the supernatural entity, your belief that if asked for something humbly to the God, you will receive it, is that how
-we survive ? We hope and hope, we the fragile beings at the mercy of the Gods, to pull us through.
- ![Image](/assets/images/nainital/11.jpeg)
-   Next we proceeded to Government's handicraft and saaris center for tourists.There the hill slopes were
-cultivated with tea farms. Then we proceeded to Naukuchiatal - the lake of nine corners. The boats here were called
-Shikaras and they were more advanced compared to our wooden boats at Naini lake. As we were boating, the boatman tells us
-"No one knows where exactly are the 9 corners. But it is said if you see all 9 corners in a glance, you either go blind or
-   attain enlightenment." Again, the folklore of mysteries and references to the supernatural, Nainital - you are the city
-of beauty but you possess the power to burn someone to ashes if someone tries to hurt your flora and fauna.
- ![Image](/assets/images/nainital/12.jpeg)
+   We were blessed with the sight of peacock dancing. The peacock displaying his flamboyant metallic blue and green
+plumage as he swayed at his will, commanding the attention of his viewers.
+ ![Image](/assets/images/nainital/16.jpeg)
+  Barking deer, sambar, chital, spotted deer, barasingha were among the fauna we had the pleasure of seeing. They looked intently at us, as if aware of the presence of humans and
+ready to take off anytime if they smelled any danger from us or the tigers!
+ ![Image](/assets/images/nainital/17.jpeg)
  Here, as we sat on the bench basking in the warm sunlight, we were witnesses of an interesting sight.
 Climbing onto the steps which lead to the lake, emerged a flock of ducks. Some of them white, some of them brown.
 They not giving a heed to the people near them or anything in general, they strutted proudly , marching with their
