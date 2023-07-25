@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Animal Social Network Visualization
+description: ASNViz, a multimedia analytics solution that facilitates the visualization and analysis of animal social networks (ASNs). 
+img: assets/img/asn.jpg
 importance: 1
-category: work
+category: Masters
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
