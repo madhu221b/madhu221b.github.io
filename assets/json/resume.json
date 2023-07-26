@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Madhura Pawar",
+    "label": "Final Year Student, Masters in AI, UvA",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "madhura.pawar@student.uva.nl",
+    "phone": "",
+    "url": "https://madhu221b.github.io/",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,22 +16,45 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "madhu221b",
+        "url": "https://www.linkedin.com/in/madhu221b/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
+      "name": "KlearStack - AI driven OCR and Intelligent Data Extraction Software",
+      "position": "Software Engineer",
+      "url": "https://www.klearstack.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-07-31",
+      "summary": "",
+      "highlights": [ "Developed back-end module for extracting information from handwritten mandate forms to validate their authenticity.",
+      "Implemented heuristic generalized algorithms for template-less data extraction from invoices.",
+      "Set up auto-language detection and translation pipeline to provide multi-lingual invoice support."
+  
+      ]
+    },
+    {
+      "name": "Credit Suisse",
+      "position": "Full Stack Developer",
+      "url": "https://www.credit-suisse.com/in/en.html",
+      "startDate": "2019-06-01",
+      "endDate": "2021-05-31",
+      "summary": "",
+      "highlights": [ "Predictive Modeling of Service Requests: Built a web-app predicting the closing date of incoming service requests. Analysed and trained a variety of predictive models post data cleaning and preprocessing.  Developed REST APIs in Flask Python for the web-app.",
+      "Service & Test Maturity Assessment Application: Developed the client-side module using ReactJS, Java Spring Boot and Flask Python & Impala for database querying where a service owner assesses his service based on pre-defined metrics."
+      ]
+    },
+    {
+      "name": "BMC Software",
+      "position": "Student Intern",
+      "url": "https://www.bmc.com/",
+      "startDate": "2018-07-01",
+      "endDate": "2019-05-31",
+      "summary": "",
+      "highlights": [ "Designed and built an application which initiates Business Continuity and Disaster Recovery in case of organisational failure due to a natural disaster."
       ]
     }
   ],
