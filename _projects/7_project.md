@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Classification of Plant Diseases using Neural Networks
-description: Designed a convolutional neural network model which can classify the disease a particular crop is infected given the image of the leaf.
-img: assets/img/plant.png
-importance: 4
-redirect: https://github.com/madhu221b/PlantDiseases
+title: Book Locator Application
+description:  Developed a real-time utility app which enables a user to locate a book without manually searching for the it. The user can navigate through around 3502 library books categorically arranged in 19 subsections .
+img: assets/img/appln.png
+importance: 5
+redirect: https://github.com/madhu221b/BookLocatorApp
 category: Bachelors
 ---
 

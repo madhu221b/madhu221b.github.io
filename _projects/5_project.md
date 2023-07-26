@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Smart Business Continuity Application
+description: An application which initiates Business Continuity and Disaster Recovery in case of  organisational failure due to a disaster. We furnish real time 
+             status of all dependencies such as assets, employees, services and project impact status. 
+img: assets/img/BCP_BMC.PNG
 importance: 3
-category: fun
+redirect: http://www.ijirset.com/upload/2019/march/69_Smart.pdf
+category: Bachelors
 ---
 
 Every project has a beautiful feature showcase page.
