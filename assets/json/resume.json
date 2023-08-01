@@ -109,10 +109,22 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Pune University Gold Medalist",
+      "date": "2019-07-01",
+      "awarder": "Savitribai Phule Pune University",
+      "summary": "Overall University Rank 1 in Computer Engg. across 90 colleges of Pune University. Awarded Dr.D.Y. Patil, G.H. Raisoni and C.A.V. Bahule Gold Medals and Catono P. Ramas Prize for securing the highest marks in Computer Engineering."
+    },
+    {
+      "title": "Recipient of the BMC Software Scholarship",
+      "date": "2018-07-01",
+      "awarder": "BMC Software, Inc",
+      "summary": "Received for obtaining Institute Rank 1 in the 2nd year of Computer Engg. Deptt"
+    },
+    {
+      "title": "Recipient of Late Shri. Gendalal Chordia Scholarship",
+      "date": "2018-07-01",
+      "awarder": "Pune Institute of Computer Technology",
+      "summary": "Received for outstanding performance in Engg. Mathematics in the 2nd year of Computer Engg. Deptt"
     }
   ],
   "certificates": [],
@@ -120,13 +132,15 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Full professional proficiency"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Hindi & Marathi",
+      "fluency": "Native or bilingual proficiency"
     }
+    
+
   ],
   "interests": [],
   "references": [],
