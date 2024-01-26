@@ -7,7 +7,7 @@ importance: 1
 category: Masters
 
 ---
-
+Trial
 We present ASNViz, a multimedia analytics solution that facilitates the visualization and analysis of animal social networks (ASNs). By modeling ASNs as networks of nodes and edges, ASNViz provides valuable insights into the dynamics and evolution of animal communities. The tool quantifies and visualizes the social structure at node and network levels, predicts future interactions when new individuals are added using deep-learning, and allows for manual updates based on empirical observations. The predictions of future interactions are made using Variational Graph Auto-Encoder models, which can be retrained and stored by the user while updating the network. A separate view gives insights to the evolution of networks based on the nodes and interactions observed and predicted between versions. ASNViz aims to bridge the gap between biology and complex network sciences, providing accessible network visualizations, interactions, and analytics for researchers interested in studying ASNs.
 
 
