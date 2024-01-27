@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fairness in Link Prediction Through Active Learning
-description: 
+description: We use active learning to steer the link recommender algorithm (Node2Vec) to generate link predictions in a way that minorities are well-represented within the community. We design active learning loop intending to improve the ability of minority nodes to become major information carriers. To assess the fairness towards minority nodes due to active learning we introduce two metrics to evaluate how important minority nodes become over time and how much they disperse within local communities to improve their representation. 
 img: assets/img/al_process.png
 importance: 1
 category: Masters
