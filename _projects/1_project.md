@@ -3,7 +3,7 @@ layout: page
 title: Animal Social Network Visualization
 description: ASNViz, a multimedia analytics solution that facilitates the visualization and analysis of animal social networks (ASNs). 
 img: assets/img/asn.jpg
-importance: 1
+importance: 2
 category: Masters
 
 ---
