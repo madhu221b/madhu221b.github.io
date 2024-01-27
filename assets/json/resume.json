@@ -23,6 +23,19 @@
     ]
   },
   "work": [
+
+    {
+      "name": "University of Amsterdam",
+      "position": "Teaching Assistant",
+      "startDate": "2023-09-01",
+      "endDate": "2024-03-31",
+      "summary": "",
+      "highlights": [ "Responsible for evaluation of assignments and exams",
+      "Mentored students with the course content and course project implementations".
+      "Courses: Fundamentals of Data Science, Deep Learning 1, FACT AI, Information Retrieval "
+
+      ]
+    },
     {
       "name": "KlearStack - AI driven OCR and Intelligent Data Extraction Software",
       "position": "Software Engineer",
@@ -83,10 +96,11 @@
       "endDate": "2024-07-01",
       "score": "",
       "courses": [
-        "Machine Learning 1",
+        "Machine Learning 1 & 2",
         "Deep Learning 1 & 2",
-        "Natural Language Processing 1 & 2",
         "Fairness, Accountability, Confidentiality and Transparency in AI",
+        "Human-in-the-Loop Machine Learning",
+        "Natural Language Processing 1 & 2",      
         "Multimedia Analytics"
       ]
     },
