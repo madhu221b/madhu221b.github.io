@@ -17,9 +17,10 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    gem 'execjs'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'eventmachine', '~> 1.2', '>= 1.2.7'
 end
 group :other_plugins do
     gem 'feedjira'

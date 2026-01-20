@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, The University of Amsterdam
+subtitle: ELLIS PhD Candidate, University of Amsterdam
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  address: 
+  address:
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false   # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a final year Masters in Artificial Intelligence student at the [University of Amsterdam](https://www.uva.nl/en). Prior to that I worked for three years as a software engineer: First as a full-stack developer at Credit Suisse and later as a backend developer at a startup - KlearStack. I obtained my Bachelors in Computer Engineering Degree from [Pune Institute of Computer Technology](https://pict.edu/) in 2019.
+I am an ELLIS PhD Candidate in the [Socially Intelligent Artificial Systems Group](https://www.sias-uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en). My research focuses on fairness, cooperation, and collective action in evolving social networks, as part of the ERC-funded RE-LINK project. I develop computational models for responsible link recommendation algorithms that promote socially desirable outcomes while maintaining user engagement. By analyzing trade-offs between social mechanisms and recommendation utility, I aim to identify conditions under which fair and socially responsible network dynamics emerge.
 
-My interest has been in areas where AI intersects with sustainability, urban planning and policy-making. I am actively looking for opportunities as an ML Engineer or Data Scientist where I can learn, contribute and be part of impactful projects. 
+Prior to my PhD, I obtained my Master's degree in Artificial Intelligence (Cum Laude) from the University of Amsterdam in 2024. Before that, I worked for three years as a software engineer: first as a full-stack developer at Credit Suisse and later as a backend developer at KlearStack. I received my Bachelor's degree in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu/) in 2019. 
