@@ -1,63 +1,67 @@
 {
   "basics": {
     "name": "Madhura Pawar",
-    "label": "Final Year Student, Masters in AI, UvA",
+    "label": "ELLIS PhD Candidate, University of Amsterdam",
     "image": "",
-    "email": "madhura.pawar@student.uva.nl",
+    "email": "m.m.pawar@uva.nl",
     "phone": "",
     "url": "https://madhu221b.github.io/",
-    "summary": "",
+    "summary": "My research focuses on fairness, cooperation, and collective action in evolving social networks, as part of the ERC-funded RE-LINK project. I develop computational models for responsible link recommendation algorithms that promote socially desirable outcomes while maintaining user engagement.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": "North Holland"
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "GitHub",
+        "username": "madhu221b",
+        "url": "https://github.com/madhu221b"
+      },
+      {
+        "network": "LinkedIn",
         "username": "madhu221b",
         "url": "https://www.linkedin.com/in/madhu221b/"
       }
     ]
   },
   "work": [
-
     {
       "name": "University of Amsterdam",
       "position": "Teaching Assistant",
       "startDate": "2023-09-01",
-      "endDate": "2024-03-31",
+      "endDate": "",
       "summary": "",
-      "highlights": [ "Responsible for evaluation of assignments and exams",
-      "Mentored students with the course content and course project implementations",
-      "Courses: Fundamentals of Data Science, Deep Learning 1, FACT AI, Information Retrieval "
-
+      "highlights": [
+        "Fundamentals of Data Science (Sept 2024, 2023) - Instructor: Prof. Fernando Santos",
+        "Fairness, Accountability, Confidentiality, and Transparency in AI (Jan 2025, 2024) - Supervised 8 student groups; 3 groups published their reproducibility studies in TMLR",
+        "Information Retrieval 1 (Feb 2024 - Apr 2024) - Instructor: Prof. Andrew Yates",
+        "Deep Learning 1 (Nov 2023 - Dec 2023) - Instructor: Prof. Yuki Asano"
       ]
     },
     {
-      "name": "KlearStack - AI driven OCR and Intelligent Data Extraction Software",
+      "name": "KlearStack",
       "position": "Software Engineer",
       "url": "https://www.klearstack.com/",
       "startDate": "2021-06-01",
       "endDate": "2022-07-31",
-      "summary": "",
-      "highlights": [ "Developed back-end module for extracting information from handwritten mandate forms to validate their authenticity.",
-      "Implemented heuristic generalized algorithms for template-less data extraction from invoices.",
-      "Set up auto-language detection and translation pipeline to provide multi-lingual invoice support."
-  
+      "summary": "AI-driven OCR and Intelligent Data Extraction Software",
+      "highlights": [
+        "Developed a back-end module for extracting information from handwritten mandate forms to validate their authenticity. Witnessed a volume of 2000 forms per day being processed seamlessly.",
+        "Implemented heuristic generalized algorithms for template-less data extraction from invoices",
+        "Set up auto-language detection and translation pipeline to provide multi-lingual invoice support"
       ]
     },
     {
       "name": "Credit Suisse",
-      "position": "Full Stack Developer",
-      "url": "https://www.credit-suisse.com/in/en.html",
+      "position": "Software Engineer",
+      "url": "",
       "startDate": "2019-06-01",
-      "endDate": "2021-05-31",
-      "summary": "",
-      "highlights": [ "Predictive Modeling of Service Requests: Built a web-app predicting the closing date of incoming service requests. Analysed and trained a variety of predictive models post data cleaning and preprocessing.  Developed REST APIs in Flask Python for the web-app.",
-      "Service & Test Maturity Assessment Application: Developed the client-side module using ReactJS, Java Spring Boot and Flask Python & Impala for database querying where a service owner assesses his service based on pre-defined metrics."
+      "endDate": "2022-05-31",
+      "summary": "Full Stack Developer in the Group Chief Technology Officer",
+      "highlights": [
+        "Built a web-app predicting the closing date of incoming service requests. Analyzed and trained a variety of predictive models post data cleaning and preprocessing.",
+        "Developed the client-side module using ReactJS, Java Spring Boot, and Flask Python & Impala for database querying where a service owner assesses his service based on pre-defined metrics"
       ]
     },
     {
@@ -66,84 +70,122 @@
       "url": "https://www.bmc.com/",
       "startDate": "2018-07-01",
       "endDate": "2019-05-31",
-      "summary": "",
-      "highlights": [ "Designed and built an application which initiates Business Continuity and Disaster Recovery in case of organisational failure due to a natural disaster."
+      "summary": "Sponsored Project by BMC Software, Inc",
+      "highlights": [
+        "Designed and built an application that initiates Business Continuity and Disaster Recovery in case of organizational failure due to a natural disaster"
       ]
     }
   ],
   "volunteer": [
     {
       "name": "National Service Scheme",
-      "position": "National Service Scheme: Treasurer, Content Writer & Volunteer",
+      "position": "Treasurer & Content Writer",
       "url": "https://nss.gov.in/",
       "startDate": "2017-04-01",
       "endDate": "2019-03-31",
-      "summary": "",
-      "highlights": [ "Managed funding & expenditure of the NSS activities; Raised funds towards Kerala flood rehabilitation.",
-      "Ideated and led the Awareness drive on Malaria & Dengue in slums near Parvati hill, Pune.",
-      "Organised an event thanking police officers and distributed 150 letters for ensuring citizen safety.",
-      "Started an online campaign ‘Deed of the Week’ bringing to light the stories of people doing kind acts."
+      "summary": "Student-volunteer body of PICT",
+      "highlights": [
+        "Managed funding & expenditure of NSS activities; Raised funds towards Kerala flood relief",
+        "Started an online campaign Deed of the Week highlighting the kind acts of people",
+        "Ideated and led the Awareness drive on Malaria & Dengue in slums near Parvati hill, Pune"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Amsterdam, Amsterdam, The Netherlands",
+      "institution": "University of Amsterdam, Amsterdam, Netherlands",
+      "url": "https://www.uva.nl/",
+      "area": "Socially Intelligent Artificial Systems Group",
+      "studyType": "ELLIS PhD Candidate",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Amsterdam, Amsterdam, Netherlands",
       "url": "https://www.uva.nl/",
       "area": "Artificial Intelligence",
-      "studyType": "Masters",
+      "studyType": "Master of Science, Cum Laude",
       "startDate": "2022-09-01",
-      "endDate": "2024-07-01",
-      "score": "",
+      "endDate": "2024-06-01",
+      "score": "8.75/10.0",
       "courses": [
-        "Machine Learning 1 & 2",
-        "Deep Learning 1 & 2",
-        "Fairness, Accountability, Confidentiality and Transparency in AI",
+        "Machine Learning 1 and 2",
+        "Deep Learning 1 and 2",
+        "Fairness, Accountability, Confidentiality, and Transparency in AI",
         "Human-in-the-Loop Machine Learning",
-        "Natural Language Processing 1 & 2",      
-        "Multimedia Analytics"
+        "Natural Language Processing 1 and 2",
+        "Multimedia Analytics",
+        "Software Modeling & Design",
+        "Design & Analysis of Algorithms"
       ]
     },
     {
-      "institution": "Pune Institute of Computer Technology, Pune, India",
+      "institution": "Pune Institute of Computer Technology (Pune University), Pune, India",
       "url": "https://pict.edu/",
       "area": "Computer Engineering",
-      "studyType": "Bachelors",
-      "startDate": "2015-07-01",
-      "endDate": "2019-05-31",
-      "score": "",
-      "courses": [
-        "Artificial Intelligence & Robotics",
-        "Data Mining & Warehousing",
-        "Software Modeling & Design",
-        "Design & Analysis of Algorithms"
-
-      ]
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2015-08-01",
+      "endDate": "2019-06-01",
+      "score": "9.72/10.0",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Pune University Gold Medalist",
+      "title": "Overall University Rank 1 in Computer Engineering",
       "date": "2019-07-01",
-      "awarder": "Savitribai Phule Pune University",
-      "summary": "Overall University Rank 1 in Computer Engg. across 90 colleges of Pune University. Awarded Dr.D.Y. Patil, G.H. Raisoni and C.A.V. Bahule Gold Medals and Catono P. Ramas Prize for securing the highest marks in Computer Engineering."
+      "awarder": "Pune University",
+      "summary": "Ranked 1st across 90 colleges of Pune University"
     },
     {
-      "title": "Recipient of the BMC Software Scholarship",
+      "title": "BMC Software Scholarship",
       "date": "2018-07-01",
       "awarder": "BMC Software, Inc",
-      "summary": "Received for obtaining Institute Rank 1 in the 2nd year of Computer Engg. Deptt"
+      "summary": "Received for standing 1st in Computer Engg. Dept."
     },
     {
-      "title": "Recipient of Late Shri. Gendalal Chordia Scholarship",
-      "date": "2018-07-01",
+      "title": "G. Chordia Scholarship",
+      "date": "2017-07-01",
       "awarder": "Pune Institute of Computer Technology",
-      "summary": "Received for outstanding performance in Engg. Mathematics in the 2nd year of Computer Engg. Deptt"
+      "summary": "Awarded for outstanding performance in Engg. Math"
     }
   ],
   "certificates": [],
-  "publications": [],
-  "skills": [],
+  "publications": [
+    {
+      "name": "[Re] Reproducibility Study of 'Label-Free Explainability for Unsupervised Models'",
+      "publisher": "ML Reproducibility Challenge 2022, NeurIPS 2023",
+      "releaseDate": "2023-12-01",
+      "url": "https://doi.org/10.5281/zenodo.8173674",
+      "summary": "Avik Pal, Valentinos Pariza, Madhura Pawar, Quim Serra Faber (Equal contribution)"
+    },
+    {
+      "name": "Improving Centrality Fairness in Algorithmic Link Recommendations",
+      "publisher": "Humans, Algorithmic Decision-Making and Society Workshop at ICML 2024",
+      "releaseDate": "2024-07-01",
+      "url": "",
+      "summary": "Pawar, M., Karimi, F., Santos, F. P. Poster presented at NetSci 2025."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "Java", "ReactJS", "JavaScript", "HTML/CSS", "PHP"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "",
+      "keywords": ["PyTorch", "NumPy", "Django", "Flask", "OpenCV", "Scikit-learn"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["MongoDB", "MySQL", "Impala", "Oracle"]
+    }
+  ],
   "languages": [
     {
       "language": "English",
@@ -153,10 +195,49 @@
       "language": "Hindi & Marathi",
       "fluency": "Native or bilingual proficiency"
     }
-    
-
   ],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "name": "Mitigating Betweenness Centrality Disparities in Link Recommendation",
+      "startDate": "2023-11-01",
+      "endDate": "2025-09-01",
+      "description": "Studied betweenness-centrality group fairness in link recommendations and proposed two random-walk–based methods that reduce structural disparities while preserving utility.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Fairness in Link Prediction Through Active Learning",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "description": "Designed an active learning loop that steers the link recommender algorithm (Node2Vec) to generate links so that minorities are well-represented in the social network.",
+      "highlights": [],
+      "url": "https://github.com/madhu221b/himl-link-prediction"
+    },
+    {
+      "name": "Animal Social Network Visualization",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-30",
+      "description": "Devised an interactive dashboard that quantifies and visualizes the social structure and evolution of animal social networks over time. Predicted future links on adding new nodes using the Variational Graph Auto-Encoder model.",
+      "highlights": [],
+      "url": "https://github.com/madhu221b/animal_social_network"
+    },
+    {
+      "name": "Assessing Long Range Graph Benchmark Datasets",
+      "startDate": "2023-04-01",
+      "endDate": "2023-05-31",
+      "description": "Explored and implemented alternative approaches in mitigating Long Range Interactions (LRI). Improved the performance using E(n)-Invariant and E(n)-Equivariant algorithms.",
+      "highlights": [],
+      "url": "https://github.com/madhu221b/uva-dl2-team11"
+    },
+    {
+      "name": "Hitting 'Probe'rty with Non-Linearity",
+      "startDate": "2023-04-01",
+      "endDate": "2023-05-31",
+      "description": "Reformulated the design of non-linear structural probes making its design simpler yet effective. Designed a visualization framework for qualitative assessment of predicted dependency trees.",
+      "highlights": [],
+      "url": "https://github.com/madhu221b/probing-lms"
+    }
+  ]
 }
